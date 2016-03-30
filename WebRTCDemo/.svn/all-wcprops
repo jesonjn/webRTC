@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6051/trunk/webrtc/examples/android/media_demo
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/README
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/build.xml
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/project.properties
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/AndroidManifest.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/res/values
+END
+bools.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/res/values/bools.xml
+END
+integers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/res/values/integers.xml
+END
+strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/res/values/strings.xml
+END

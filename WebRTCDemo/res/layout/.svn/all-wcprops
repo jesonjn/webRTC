@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/res/layout
+END
+settingsmenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/res/layout/settingsmenu.xml
+END
+audiomenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/res/layout/audiomenu.xml
+END
+mainmenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/res/layout/mainmenu.xml
+END
+videomenu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/res/layout/videomenu.xml
+END
+dropdownitems.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/res/layout/dropdownitems.xml
+END

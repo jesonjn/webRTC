@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/6051/trunk/webrtc/examples/android/media_demo/src/org/webrtc/webrtcdemo
+END
+CodecInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/src/org/webrtc/webrtcdemo/CodecInst.java
+END
+MediaEngineObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/src/org/webrtc/webrtcdemo/MediaEngineObserver.java
+END
+SpinnerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/src/org/webrtc/webrtcdemo/SpinnerAdapter.java
+END
+VideoMenuFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/src/org/webrtc/webrtcdemo/VideoMenuFragment.java
+END
+MenuStateProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/src/org/webrtc/webrtcdemo/MenuStateProvider.java
+END
+RtcpStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/src/org/webrtc/webrtcdemo/RtcpStatistics.java
+END
+CameraDesc.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/src/org/webrtc/webrtcdemo/CameraDesc.java
+END
+MediaCodecVideoDecoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/src/org/webrtc/webrtcdemo/MediaCodecVideoDecoder.java
+END
+VoiceEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/src/org/webrtc/webrtcdemo/VoiceEngine.java
+END
+NativeWebRtcContextRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/src/org/webrtc/webrtcdemo/NativeWebRtcContextRegistry.java
+END
+WebRTCDemo.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/src/org/webrtc/webrtcdemo/WebRTCDemo.java
+END
+VideoEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/6051/trunk/webrtc/examples/android/media_demo/src/org/webrtc/webrtcdemo/VideoEngine.java
+END
+MainMenuFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/src/org/webrtc/webrtcdemo/MainMenuFragment.java
+END
+VideoDecodeEncodeObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/src/org/webrtc/webrtcdemo/VideoDecodeEncodeObserver.java
+END
+VideoCodecInst.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/src/org/webrtc/webrtcdemo/VideoCodecInst.java
+END
+MediaEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/5865/trunk/webrtc/examples/android/media_demo/src/org/webrtc/webrtcdemo/MediaEngine.java
+END
+SettingsMenuFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/5396/trunk/webrtc/examples/android/media_demo/src/org/webrtc/webrtcdemo/SettingsMenuFragment.java
+END
+AudioMenuFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/5273/trunk/webrtc/examples/android/media_demo/src/org/webrtc/webrtcdemo/AudioMenuFragment.java
+END
